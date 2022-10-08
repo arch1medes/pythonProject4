@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../coursework22_source/.idea/coursework22_source.iml" filepath="$PROJECT_DIR$/../coursework22_source/.idea/coursework22_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coursework2_source/.idea/coursework2_source.iml" filepath="$PROJECT_DIR$/../coursework2_source/.idea/coursework2_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
